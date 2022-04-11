@@ -2,6 +2,8 @@
 
 Slot machine client and server applications
 
+![alt text](https://media-exp1.licdn.com/dms/image/C4E1BAQHYYDw-9T8h_A/company-background_10000/0/1640617997669?e=2147483647&v=beta&t=dV0P_eswuIGQ8fTr-N7GK_F2UZVrWa011X2Tj2ThGKM)
+
 # CLIENT
 
 ## Installation
